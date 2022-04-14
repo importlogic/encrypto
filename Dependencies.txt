@@ -1,0 +1,2 @@
+1. CImg and image processing C++ library and all it's subdependencies.
+2. C++ compiler.
